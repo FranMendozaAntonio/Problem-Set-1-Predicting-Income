@@ -1,1 +1,2 @@
 Para la obtención de datos se utilzaron técnicas de web-scrapping. Se accedió a través del siguiente link https://ignaciomsarmiento.github.io/GEIH2018_sample/ que contiene 10 URLs con datos de individuos para el año 2018
+La carpeta /scrip contiene todo el paso a paso.
